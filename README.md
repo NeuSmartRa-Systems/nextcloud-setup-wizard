@@ -1,6 +1,10 @@
 # 🚀 Nextcloud – Setup-Wizard
 **Ein interaktives Bash‑Skript für die automatisierte Installation und Optimierung von Nextcloud auf Debian/Ubuntu.**
 
+![GitHub stars](https://img.shields.io/github/stars/NeuSmartRa-Systems/nextcloud-setup-wizard)
+![GitHub forks](https://img.shields.io/github/forks/NeuSmartRa-Systems/nextcloud-setup-wizard)
+![GitHub issues](https://img.shields.io/github/issues/NeuSmartRa-Systems/nextcloud-setup-wizard)
+![License](https://img.shields.io/github/license/NeuSmartRa-Systems/nextcloud-setup-wizard)
 ---
 
 ## ✨ Features
