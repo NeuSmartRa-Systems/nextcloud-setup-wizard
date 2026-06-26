@@ -1,4 +1,4 @@
-```markdown
+
 # 🚀 Nextcloud – Zero‑Touch Deployment
 
 **Ein interaktives Bash‑Skript für die automatisierte Installation und Optimierung von Nextcloud auf Debian/Ubuntu.**
