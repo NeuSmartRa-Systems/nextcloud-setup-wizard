@@ -107,6 +107,8 @@ Bei Fragen oder Verbesserungsvorschlägen einfach ein Issue öffnen.
 - Das Script läuft durch und setzt Nexctloud auf. Beim Speichern der erweiterten config.php Einstelungen tritt ein Fehler auf, beeinträchtigt das Setup sonst aber nicht.
 **Lösung:** Die erweiterten config.php Einstellungen vorerst nicht benutzen. 
 
+---
+
 <p align="center">
   <b>NeuSmartRa</b> | Systems – 2026
 </p>
